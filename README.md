@@ -4,7 +4,8 @@ a simple script to find and update your shelly devices over mqtt
 
 ## installation
 
-just copy the `shellies` file to your home directory and update the connection information using `cp shellies $HOME/.shellies`
+just copy the `shellies` file to your home directory and update the connection information using:
+`cp shellies $HOME/.shellies`
 
 change the `MQTT_TIMEOUT` to the period your devices take to broadcast their status
 
